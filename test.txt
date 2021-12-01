@@ -1,0 +1,2 @@
+witam, sprawdzam czy działa połączeni ssh
+
